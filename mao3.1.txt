@@ -8,7 +8,7 @@
 ## spider
 # 00.官方jar
 # TG (猫影视TV渡口🛳, 不定期开放邀请链接 ) --> https://t.me/catvodtv_offical
-//"spider": "https://github.com/fangzhude123/fangzhude123/blob/4880241f557b2546c9fbcbb5742b7881919a2b61/%E5%AE%98%E6%96%B9jar.txt",
+//"spider": "https://raw.githubusercontent.com/fangzhude123/fangzhude123/main/%E5%AE%98%E6%96%B9jar.txt",
 
 # 01.🐼 (非官方) 缝合jar
 //"spider":"https://raw.githubusercontent.com/fangzhude123/fangzhude123/main/%E7%BC%9D%E5%90%88jar.jar
