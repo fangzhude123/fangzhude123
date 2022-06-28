@@ -113,6 +113,16 @@
       "ext": "https://fangzhude123.github.io/ext/苹果影视.txt"
     },
     {
+      "key": "csp_biubiu_苹果影视1",
+      "name": "🥒苹果影视1(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://fangzhude123.github.io/ext/苹果影视1.txt"
+    },
+    {
       "key": "csp_biubiu_奇粹影院",
       "name": "🥒奇粹影院(XB)",
       "type": 3,
