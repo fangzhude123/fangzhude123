@@ -1307,5 +1307,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "http://xuyongfan.dothome.co.kr/mao/111.jar"
+  "spider": "https://fangzhude123.github.io/fangzhude123/0701apple.jar"
 }
