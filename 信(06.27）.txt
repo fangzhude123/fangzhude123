@@ -35,7 +35,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      ,"ext": "3a49cf29cf20410997247c6eb4509be9"
+      "ext": "3a49cf29cf20410997247c6eb4509be9"
     },
     {
       "key": "csp_GitCafe",
@@ -45,7 +45,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      ,"ext": "3a49cf29cf20410997247c6eb4509be9"
+      "ext": "3a49cf29cf20410997247c6eb4509be9"
     },
     {
       "key": "Kuaikan",
