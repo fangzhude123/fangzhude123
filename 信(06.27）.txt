@@ -196,6 +196,9 @@
       "filterable": 0,
       "ext": "https://fangzhude123.github.io/ext/LIBVIO.txt"
     },
+    {"key":"csp_xbb_哔嘀影视","name":"🍀Bidi","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://fangzhude123.github.io/ext/哔嘀.txt"},
+    {"key":"csp_biubiu_神马影院","name":"神马影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://fangzhude123.github.io/ext/神马影院.txt"},	
+    {"key":"csp_XBiubiubiubiu_ysgc","name":"🥒影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://fangzhude123.github.io/ext/影视工厂.txt"},
     {
       "key":"push_agent",
       "name":"推送",
