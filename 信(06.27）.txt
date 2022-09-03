@@ -99,6 +99,7 @@
     {"key":"csp_xp_zxzj2","name":"💢在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://fangzhude123.github.io/ext/zxzj.txt"},
     {"key":"csp_xp_cokemv","name":"💢Cokemv","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://fangzhude123.github.io/ext/cokemv.txt"},
     {"key":"csp_xp_jLgyy","name":"💢蓝光影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://fangzhude123.github.io/ext/lgyy.txt"},
+    {"key": "csp_xp_yinfans","name": "💥音范丝4K(300+)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://fangzhude123.github.io/ext/音范丝.txt"},
     {
       "key": "csp_XBiubiubiubiu_蓝光影视",
       "name": "蓝光🐞",
