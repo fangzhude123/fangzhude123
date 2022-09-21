@@ -144,14 +144,14 @@
       "ext": "https://fangzhude123.github.io/ext/骚火电影.txt"
     },
     {
-      "key": "csp_biubiu_厂长资源-蓝光",
-      "name": "🥒厂长资源-蓝光(XB)",
+      "key": "csp_xpath_czspp",
+      "name": "💢厂长资源(XPF)",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_XPathFilter",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://fangzhude123.github.io/ext/厂长资源-蓝光.txt"
+      "filterable": 1,
+      "ext": "https://fangzhude123.github.io/ext/厂长资源.json"
     },
     {
       "key": "csp_XBiubiubiubiu_city",
