@@ -1,15 +1,6 @@
 {
   "sites": [
     {
-      "key": "csp_LiteApple",
-      "name": "🍎小苹果(SP)",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_biubiu_奇粹影院",
       "name": "🥒奇粹影院(XB)",
       "type": 3,
@@ -520,5 +511,4 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1080",
-  "spider": "https://fangzhude123.github.io/fangzhude123/0608.jar"
-}
+  }
