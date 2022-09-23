@@ -153,36 +153,7 @@
       "filterable": 1,
       "ext": "https://fangzhude123.github.io/ext/厂长资源.json"
     },
-    {
-      "key": "csp_XBiubiubiubiu_city",
-      "name": "city(B)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://fangzhude123.github.io/ext/city电影.txt"
-    },
-    {
-      "key": "csp_biubiu_在线之家",
-      "name": "🥒在线之家(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://fangzhude123.github.io/ext/在线之家.txt"
-    },
-    {
-      "key": "csp_biubiu_COKEMV",
-      "name": "🥒COKEMV(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://fangzhude123.github.io/ext/COKEMV.txt"
-    },
+    {"key":"csp_xbb_瓜皮TV","name":"🍀瓜皮TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://fangzhude123.github.io/ext/瓜皮TV.json"},
     {
       "key": "csp_biubiu_555电影",
       "name": "🥒555电影(XB)",
