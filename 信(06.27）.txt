@@ -1,6 +1,6 @@
 ﻿{
   "wallpaper": "https://picsum.photos/1080",
-  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC0923.jar",
+  "spider": "https://fangzhude123.github.io/fangzhude123/703.jar",
   "sites": [
     {
       "key": "csp_Kunyu77",
@@ -29,10 +29,10 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key": "csp_Gitcafe","name": "📜小纸条(爬虫)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "cb17a16cc67c48c2be8bdf6389b2f2a8"},
-{"key": "csp_FindZY","name": "💡找资源(仅搜索)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "cb17a16cc67c48c2be8bdf6389b2f2a8"},
-{"key": "csp_AliPS","name": "💿云盘搜(仅搜索)","type": 3,"api":" csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "cb17a16cc67c48c2be8bdf6389b2f2a8"},
-{"key": "csp_Yiso","name": "🔍一搜(仅搜索)","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "cb17a16cc67c48c2be8bdf6389b2f2a8"},
+    {"key": "csp_Gitcafe","name": "📜小纸条(爬虫)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "81461f2e9d0b4ffb86612db403824b8a"},
+{"key": "csp_FindZY","name": "💡找资源(仅搜索)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "81461f2e9d0b4ffb86612db403824b8a"},
+{"key": "csp_AliPS","name": "💿云盘搜(仅搜索)","type": 3,"api":" csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "81461f2e9d0b4ffb86612db403824b8a"},
+{"key": "csp_Yiso","name": "🔍一搜(仅搜索)","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "81461f2e9d0b4ffb86612db403824b8a"},
     {
       "key": "Kuaikan",
       "name": "🎈快看",
@@ -184,7 +184,7 @@
       "searchable":0,
       "quickSearch":0,
       "filterable":0,
-      "ext": "cb17a16cc67c48c2be8bdf6389b2f2a8"
+      "ext": "81461f2e9d0b4ffb86612db403824b8a"
     },
     {
       "key": "csp_biubiu_乐猪影视",
