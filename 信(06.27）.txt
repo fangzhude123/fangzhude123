@@ -1,6 +1,6 @@
 ﻿{
   "wallpaper": "https://picsum.photos/1080",
-  "spider": "https://gitee.com/fangzhude123/fangzhude123/raw/main/cc.jar;md5;7fdf839e36aa18bc1dd09d911b564e06",
+  "spider": "https://gitee.com/fangzhude123/fangzhude123/raw/main/cc.jar",
   "sites": [
     {
       "key": "csp_Kunyu77",
