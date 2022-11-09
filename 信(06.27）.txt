@@ -184,7 +184,7 @@
       "searchable":0,
       "quickSearch":0,
       "filterable":0,
-      "ext": "https://gitee.com/fangzhude123/fangzhude123/raw/main/token.txt"
+      "ext": "aceac72e82b14cfd9ecc34c3aa022fd5"
     },
     {
       "key": "csp_biubiu_乐猪影视",
