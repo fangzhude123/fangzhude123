@@ -184,7 +184,7 @@
       "searchable":0,
       "quickSearch":0,
       "filterable":0,
-      "ext": "https://fangzhude123.github.io/fangzhude123/token.txthttps://kebedd69.github.io/TVbox-interface/token.json"
+      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
     },
     {
       "key": "csp_biubiu_乐猪影视",
